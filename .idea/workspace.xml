@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fc4d43c1-8042-47a1-97da-7e2a96a9624d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Python.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NEWS.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programs/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programs/.idea/Programs.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programs/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programs/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programs/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programs/Assignments/Dict Assignment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programs/Assignments/Patterns.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programs/Assignments/Sample.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programs/Assignments/Task.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programs/Assignments/code.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programs/Assignments/for loop Assignment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programs/Assignments/func assignment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programs/Assignments/livep.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programs/Assignments/nested dict assignment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programs/Assignments/practice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programs/Assignments/range.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programs/Assignments/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programs/Exception.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programs/Iterative/for loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programs/Iterative/while loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programs/Modules/Calendar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programs/Modules/datetime.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programs/Project/Admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programs/Project/Py@15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programs/Project/connector.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programs/Project/course.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programs/Project/credential.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programs/Project/dropdown.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programs/Project/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programs/Project/saa.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programs/Project/studentreg.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programs/Project/tkinter mod.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programs/Project/tkinter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programs/Project/w.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programs/RE programs/RE Fun.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programs/RE programs/RE practice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programs/RE programs/RFfile.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programs/conditional/elif.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programs/conditional/ifelse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programs/conditional/nested.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programs/conditional/simple if.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programs/def func.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programs/file handling.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programs/file.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programs/filehandling 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programs/lambda.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programs/myfile.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programs/newfile.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programs/nump/module.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programs/oops/Polymorphism.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programs/oops/Threading.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programs/oops/class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programs/oops/data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programs/oops/database.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programs/oops/decorator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programs/oops/emps.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programs/oops/example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programs/oops/file.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programs/oops/inheritance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programs/pandas/DataFrame.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programs/pandas/series.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programs/pickling.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programs/pypickle.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dfPro.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/email.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manjuu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mesg.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myfile.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonw.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studentsdetails.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/text.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/transfer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wattsapp.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2P5SPsYqnUIUFJknXBKVS0YO3xy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/manju/PycharmProjects/Python",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fc4d43c1-8042-47a1-97da-7e2a96a9624d" name="Changes" comment="" />
+      <created>1682745428456</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1682745428456</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

@@ -1,0 +1,4 @@
+manju,8000,TCS,Hyd
+prathyu,9000,TCS,Hyd
+nani,6000,TCS,Hyd
+sai,7000,TCS,Hyd

@@ -1,0 +1,6 @@
+TCS,Rohit,Satya,Dhoni,Saroj,Venkat,Sas
+INFOSYS,kohli,Santosh,Venkat,Koti,Prabhas,Soumya,Mishra
+WIPRO,Satya,Kohli,Ram,Chinna,Pop,Amella,Suresh,Arjuna
+CTS,Prabas,Subha,Debha,Rabha,Venkat,Dhoni,Surya,Saroj
+NTH,Narayana,Akhil,Arha,Venkat,Sravya,Ananya,Revanth,Aha
+ABC,Arha,Chinna,Satya,Dhoni,Venkat,Rohit,Yesh,Nikhilesh

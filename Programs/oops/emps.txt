@@ -1,0 +1,3 @@
+Sai,10000,TCS,Hyd
+Nani,20000,TCS,Hyd
+Satya,30000,TCS.Hyd

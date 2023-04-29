@@ -1,0 +1,4 @@
+TCS,Sai,Nani,Satya,Sushanth
+WIPRO,Kohli,Dhoni,Rohit,Akash
+INFOSYS,Amit,Manju,Ram,Phani
+CTS,Sai,Sameer,Nanda,Suraj,Subhasis
